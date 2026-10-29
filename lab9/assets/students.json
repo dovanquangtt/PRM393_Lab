@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "name": "Nguyen Van An",
+    "major": "Software Engineering",
+    "age": 20
+  },
+  {
+    "id": 2,
+    "name": "Tran Thi Binh",
+    "major": "Information Technology",
+    "age": 21
+  },
+  {
+    "id": 3,
+    "name": "Le Van Cuong",
+    "major": "Computer Science",
+    "age": 19
+  },
+  {
+    "id": 4,
+    "name": "Pham Thi Dung",
+    "major": "Software Engineering",
+    "age": 22
+  }
+]
